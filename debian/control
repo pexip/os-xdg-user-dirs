@@ -5,8 +5,9 @@
 Source: xdg-user-dirs
 Section: utils
 Priority: optional
-Maintainer: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
-Uploaders: Iain Lane <laney@debian.org>, Jordi Mallach <jordi@debian.org>, Matthias Klumpp <mak@debian.org>, Michael Biebl <biebl@debian.org>, Sebastian Dröge <slomo@debian.org>
+Maintainer: Pexip AS <packaging@pexip.com>
+XSBC-Pexip-Original-Maintainer: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
+XSBC-Pexip-Original-Uploaders: Iain Lane <laney@debian.org>, Jordi Mallach <jordi@debian.org>, Matthias Klumpp <mak@debian.org>, Michael Biebl <biebl@debian.org>, Sebastian Dröge <slomo@debian.org>
 Build-Depends: debhelper-compat (= 13),
                docbook-xml,
                docbook-xsl,
@@ -16,6 +17,7 @@ Standards-Version: 4.6.1
 Vcs-Browser: https://salsa.debian.org/gnome-team/xdg-user-dirs
 Vcs-Git: https://salsa.debian.org/gnome-team/xdg-user-dirs.git
 Homepage: https://www.freedesktop.org/wiki/Software/xdg-user-dirs
+XS-Pexip-Upstream: http://deb.debian.org/debian/ bookworm
 
 Package: xdg-user-dirs
 Architecture: any
