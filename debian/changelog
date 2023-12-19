@@ -1,4 +1,4 @@
-xdg-user-dirs (0.18-1pexip1) pexip; urgency=medium
+xdg-user-dirs (0.18-1pexip1) pexip-bookworm; urgency=medium
 
   * Prepare Pexip packaging
 
