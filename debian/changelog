@@ -1,3 +1,9 @@
+xdg-user-dirs (0.18-1+pexip24u2) pexip-bookworm; urgency=medium
+
+  * New versioning scheme
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Thu, 01 Feb 2024 16:38:49 +0000
+
 xdg-user-dirs (0.18-1pexip1) pexip-bookworm; urgency=medium
 
   * Prepare Pexip packaging
