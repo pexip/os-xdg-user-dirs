@@ -1,3 +1,9 @@
+xdg-user-dirs (0.18-2+pexip25u1) pexip-trixie; urgency=medium
+
+  * Initial trixie build
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Tue, 29 Apr 2025 23:00:12 +0100
+
 xdg-user-dirs (0.18-2) unstable; urgency=medium
 
   * Stop using debian/control.in and dh_gnome_clean
